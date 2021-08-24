@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "mymeet-f3474": {
+      "hosting": {
+        "vidStreamFrontend": [
+          "mymeet-f3474"
+        ]
+      }
+    }
+  }
+}
