@@ -22,7 +22,7 @@ bootstrap();
 
 const startServer = () => {
     const address = server.address()
-    console.info(`app running at ${5000}`)
+    console.info(`app running at the ${5000}`)
 };
 
 server.listen(process.env.PORT || 5000, startServer);
