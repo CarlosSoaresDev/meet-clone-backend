@@ -6,9 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc --watch && nodemon dir/startup.js",
-    "dev":"nodemon dir/startup.js",
+    "dev": "nodemon dir/startup.js",
     "start": "node dir/startup.js"
-
   },
   "keywords": [],
   "author": "",
