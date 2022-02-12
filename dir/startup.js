@@ -34,6 +34,6 @@ var bootstrap = function () {
 bootstrap();
 var startServer = function () {
     var address = server.address();
-    console.info("app running at the ".concat(5000));
+    console.info("app running at ".concat(5000));
 };
 server.listen(process.env.PORT || 5000, startServer);
